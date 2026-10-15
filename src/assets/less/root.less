@@ -1104,7 +1104,6 @@
 @media only screen and (min-width: 48rem) {
 	#subscribe-2143 {
 		.cs-image-group {
-			/* set to inherit at Large Desktop */
 			font-size: ~"min(1.32vw, 1rem)";
 		}
 
@@ -1112,8 +1111,16 @@
 			flex-direction: row;
 		}
 
-		.cs-button-solid {
+		.cs-input {
 			width: auto;
+			flex: 1 1 auto;
+			min-width: 0;
+		}
+
+		.cs-submit {
+			width: auto;
+			flex: 0 0 auto;
+			white-space: nowrap;
 		}
 	}
 }
