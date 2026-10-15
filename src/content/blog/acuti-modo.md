@@ -2,7 +2,7 @@
 title: Acuti modo
 url: acuti-modo
 description: Lorem markdownum tardantis unam mitissima dissimulator inposuit   corpus sintque tura tremenda, nec coetum.
-author: Code Stitch
+author: Jason
 date: 2023-06-08T15:26:46.705Z
 tags:
     - post
@@ -14,12 +14,12 @@ imageAlt: Kitchen
 
 Lorem markdownum tardantis unam mitissima dissimulator inposuit corpus sintque tura tremenda, nec coetum. Est limen Isthmo sagittas patres emerguntque anxia [defenderet](http://www.morte.com/parvo.html) illi, est.
 
--   Sua ille submittere viribus verba visa Myconon
--   Qvem nec
--   Frena prior rauco iaculum enim
--   Modo referat
--   Tibi mihi sumit bibit censuque licentia consistite
--   Sumptis Iunonis muneris quiete haec tori
+- Sua ille submittere viribus verba visa Myconon
+- Qvem nec
+- Frena prior rauco iaculum enim
+- Modo referat
+- Tibi mihi sumit bibit censuque licentia consistite
+- Sumptis Iunonis muneris quiete haec tori
 
 ## Aut pedum tendit ut raptae
 
